@@ -1,6 +1,6 @@
 # SimpleReplaceAllUtility
 
-This utility enables you to replace all of 1 occurence of a string to another based on a csv file, in all files of a directory. 
+This utility enables you to replace all of 1 occurence of a string in any file to another based on a csv file, in all files of a directory. 
 
 Example: CSV File 
 
