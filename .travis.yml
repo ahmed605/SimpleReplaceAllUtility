@@ -1,3 +1,8 @@
 language: java
 sudo: enabled
 os: osx
+deploy:
+      provider: releases
+      api_key: "6348a075c1fea33ba1097e8bfa851a377063ba4b"
+      file: "build.jar"
+      skip_cleanup: true
